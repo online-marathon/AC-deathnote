@@ -198,7 +198,6 @@ ls
 
 #### Знаходимо файл `root.txt` та виводимо.
 
-![alt text](./DN_src/image-10.png)
 
 ---
 
